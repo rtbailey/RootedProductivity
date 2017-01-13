@@ -6,7 +6,7 @@ Credit to Cal Newport for the ideas here: http://calnewport.com/blog/2017/01/05/
 ## Concept
 Productivity hacks, like diets, are legion.  As with diets, it's tempting to read about a new one, be inspired, and set out with good intentions to implement.  But, what grounds you and holds you accountable?  Often, we hold these ideas in our heads with good intentions of trying them out. Maybe we do try them briefly or find some success, but ultimately they flame out and we move on.
 
-Perhaps the problem isn't the new strategy, it's our approach.  
+Perhaps the problem isn't the new strategy, it's how we approach these ideas in the first place.  
 
 ## Problems
 * **Shiny Object** - we are attracted to the new shiny strategy/movement/idea/technique/concept/hack (SMITCH), but attraction alone will not lead to success
